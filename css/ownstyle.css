@@ -1,0 +1,81 @@
+.text-color{
+	color:gray;
+}
+.text-uppercase{
+	text-transform:uppercase;
+}
+.pic-row{
+	margin-top:50px;
+	margin-bottom:40px;
+}
+.pic-card{
+	background: linear-gradient(to right, #ffeeee, #ddefbb); 
+}
+#imgId{
+  width: 150px;
+  height:150px;
+  border-radius:50%;
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);
+  }  
+.dobstyle{
+	margin-bottom:-17px;
+	margin-top:10px;
+	color:gray;
+}
+.maritalstyle{
+	margin-right:20px;
+	color:gray;
+}
+.emerstyle{
+	color:gray;
+}
+.democolor{
+	color:gray;
+	text-transform:uppercase;
+	margin-top:2px;
+}
+.nav-tab-width{
+	width:100%;
+	margin-right:0;
+	margin-left:0;
+}
+footer.footer-style{
+	margin-top:20px;
+	width:100%;
+	margin-right:0;
+	margin-left:0;
+}
+.tab-links{
+	letter-spacing:1px;
+	font-weight:bold;
+}
+.my-tab-content{
+    margin-bottom: 0px;
+    margin-right: 0px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.login-card-style{
+	 background:linear-gradient(to bottom right, red, yellow);
+}
+.no-account-style{
+	color:gray;
+	text-align:center!important;
+}
+.mybtn-color{
+	background: linear-gradient(to right,  #d53369, #cbad6d);
+}
+.mycard-color{
+	background: linear-gradient(to right, #ffeeee, #ddefbb); 
+}.my-chip-style{
+		background: linear-gradient(to right,  #d53369, #cbad6d);
+}
+.chip{
+	background-color: #4285f4;
+	color:#fff;
+}
+.chips .input{
+	width:200px!important;	
+}
+
