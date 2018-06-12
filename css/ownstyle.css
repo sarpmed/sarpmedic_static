@@ -68,14 +68,22 @@ footer.footer-style{
 }
 .mycard-color{
 	background: linear-gradient(to right, #ffeeee, #ddefbb); 
-}.my-chip-style{
+}
+.my-chip-style{
 		background: linear-gradient(to right,  #d53369, #cbad6d);
 }
-.chip{
+#others .chip{
+	background-color: #4285f4;
+	color:#fff;
+}
+#currentmed .chip{
 	background-color: #4285f4;
 	color:#fff;
 }
 .chips .input{
 	width:200px!important;	
+}
+.signup-head{
+	font-weight:700;
 }
 
